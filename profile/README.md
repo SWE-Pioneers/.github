@@ -2,7 +2,7 @@
 
 > **We don't code software. We pioneer it.**
 
-Software Engineering Pioneers (**SWE-Pioneers**) is a software engineering and managed infrastructure firm based in Tripoli, Libya, serving organizations across Libya and MENA. We engineer custom business software from requirements and architecture to production, and we operate hardened ERP, business email, and cloud infrastructure with full documentation and zero vendor lock-in.
+Software Engineering Pioneers (**SWE Pioneers**) is a software engineering and managed infrastructure firm based in Tripoli, Libya, serving organizations across Libya and MENA. We engineer custom business software from requirements and architecture to production, and we operate hardened ERP, business email, and cloud infrastructure with full documentation and zero vendor lock-in.
 
 > *"We don't just write code. We engineer, deliver, and support systems intended to create business value."*
 
@@ -43,8 +43,8 @@ In addition to client engineering, we build and operate our own internal platfor
 
 ## Core Tech Stack
 
-- **Languages & Frameworks:** Python, Rust, TypeScript, .NET / C#, Dart, Django / Django-Bolt, FastAPI, Frappe, React, Vue, Flutter
-- **Infrastructure & Operations:** Docker, Traefik, Nginx, PostgreSQL, Redis, MinIO / S3, Mailu / Mailcow, Ansible, Linux
+- **Languages & Frameworks:** Python, Rust, TypeScript, .NET / C#, Dart, Django, FastAPI, React, Vue, Flutter
+- **Infrastructure & Operations:** Frappe, Docker, Traefik, Nginx, PostgreSQL, Redis, MinIO / S3, Ansible, Linux
 
 ---
 
