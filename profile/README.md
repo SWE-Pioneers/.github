@@ -63,4 +63,5 @@ This organization hosts our public monorepos and maintained forks of the open-so
 - **Website:** [swe.com.ly](https://swe.com.ly)
 - **Email:** [info@swe.com.ly](mailto:info@swe.com.ly)
 - **WhatsApp:** [wa.me/swe.pioneers](https://wa.me/swe.pioneers)
+- **Facebook:** [Facebook](https://www.facebook.com/profile.php?id=61592999232136)
 - **Location:** Tripoli, Libya
